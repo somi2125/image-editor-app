@@ -1,7 +1,5 @@
 # 🖼️ Image Editor App
 
-# ✨ Pro Image Editor
-
 ## 📌 Introduction
 Pro Image Editor is a powerful and user-friendly image editing web application built using Python and Streamlit.  
 It allows users to upload images in multiple formats and apply real-time editing operations with a live preview feature.
