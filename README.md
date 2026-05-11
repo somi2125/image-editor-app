@@ -1,3 +1,6 @@
+
+![App Preview](assets/screenshot_name.png)
+
 # 🖼️ Image Editor App
 
 ## 📌 Introduction
